@@ -1,0 +1,10 @@
+.cart-ctn {
+  position: fixed;
+  top: 140px;
+  right: 20px;
+  color: #117a8b;
+  background-color: #dae0e524;
+  padding: 18px 13px;
+  z-index: 50;
+  border-radius: 50%;
+}

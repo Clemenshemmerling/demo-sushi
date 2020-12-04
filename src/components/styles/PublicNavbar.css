@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
+.nav-ctn {
+  font-family: 'Pangolin', cursive;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.border-bottom-red {
+  border-bottom: 3px solid #DA212B;
+}
+
+.img-ctn {
+  width: 58px;
+  margin: 0 20px;
+}
+
+.social-ctn {
+  width: 58px;
+}
+
+.border-none {
+  border: none;
+  background: none;
+}
